@@ -1,5 +1,5 @@
-# Bootstrap
-this is a bootstrap test to validate the reliability of GWAS results derived from small experimental samples.
+# Bootstrap.sh
+#this is a bootstrap test to validate the reliability of GWAS results derived from small experimental samples.
 ##bootstrap test
 for i in `seq 1 1000`
 do
